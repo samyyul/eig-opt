@@ -9,7 +9,7 @@ EigOpt originated from my master's project, where I developed a code to optimise
 
 - Exchange (J) couplings are initially determined using Broken Symmetry Density-Functional Theory (BS-DFT). 
 - This method is easy and provides a reasonable initial approximation for J couplings. 
-- The calculated eigenvalues with BS-DFT pale in accuracy when compared to those calculated using multi-reference methods, such as Dedicated Difference Configuarational Interaction (DDCI) and Complete active space self-consistent Field (CASSCF). 
+- The calculated eigenvalues with BS-DFT pale in accuracy when compared to those calculated using multi-reference methods, such as  Difference-Dedicated Configuaration Interaction (DDCI) and Complete active space self-consistent Field (CASSCF). 
 - The caviate to these higher-level methods is that they do not output any exchange couplings.
 
 Our Solution was EigOpt, a script that optimises our approximated J-couplings to our reliably calculated eigenvalues.
