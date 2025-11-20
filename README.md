@@ -1,6 +1,9 @@
 # EigOpt: Optimisation of Eigenvalues  
 
 A Python-based framework to optimise exchange couplings (J) in Heisenberg Hamiltonians against target eigenvalues, developed from my Master's research.
+
+App is viewable [**here**] (http://130.88.36.236)
+
 ## Summary 
 
 EigOpt originated from my master's project, where I developed a code to optimise exchange couplings (J)  for many-spin systems. 
@@ -18,7 +21,7 @@ Our Solution was EigOpt, a script that optimises our approximated J-couplings to
 
 The initial version of EigOpt is available in two standalone scripts:  
 
-- **Optimise_2.py** – optimises J couplings to match target eigenvalues.  
+- **Optimise.py** – optimises J couplings to match target eigenvalues.  
 - **Heisenberg.py** – calculates eigenvalues, eigenvectors, and multiplicities.  
 
 These scripts form the core framework used in my Master's thesis. While functional, they have since been superseded by the web application (see below).  
