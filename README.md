@@ -2,7 +2,7 @@
 
 A Python-based framework to optimise exchange couplings (J) in Heisenberg Hamiltonians against target eigenvalues, developed from my Master's research.
 
-App is viewable [**here**] (http://130.88.36.236)
+App is viewable [**here**](http://130.88.36.236)
 
 ## Summary 
 
